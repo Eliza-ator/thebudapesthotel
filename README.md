@@ -42,5 +42,5 @@ Roles de cada una en el Proyecto.
 
 Link de la página: https://thebudapesthotel.netlify.app
 
-Repositorio 
+Repositorio https://github.com/Eliza-ator/thebudapesthotel.git
 
